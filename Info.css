@@ -1,9 +1,6 @@
 .background
-{
-	background-color: grey;
-}
-
-p
-{
-    font-size: 50px;
+{  
+	/*#CB997E*/ 
+	background-color:#293132;
+	font-size:30px;
 }
